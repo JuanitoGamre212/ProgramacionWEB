@@ -1,0 +1,107 @@
+body{
+    background: #000428;  
+    background: -webkit-linear-gradient(to right, #004e92, #000428); 
+    background: linear-gradient(to right, #004e92, #000428);
+}
+.nav-link{
+    font-size: 1.25rem;
+}
+.titulo{
+    margin-top: 3rem;
+    font-family: fantasy;
+    font-size: 4rem;
+    color: rgb(165, 163, 163)
+}
+.slide{
+    margin-top: 3.5rem;
+    margin-left: 3.125rem;
+    margin-right: 3.125rem;
+}
+.slide img{
+    height: 80vh;
+}
+.nombre{
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+#p1{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+#p2{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+#tiktok{
+    font-size: 3rem;
+}
+#cards{
+    margin-top: 4rem;
+}
+#con{
+    font-size: 3rem;
+}
+#opinion{
+    resize: none;
+}
+#botones{
+    margin-top: 2rem;
+    font-size: 2rem;
+    color: rgb(165, 163, 163)
+}
+#R{
+    margin-top: 4rem;
+}
+#E{
+    font-size: 1.5rem;
+}
+#J{
+    font-size: 2.5rem;
+    color: rgb(165, 163, 163)
+}
+#Card{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+#carrusel{
+    text-align: center;
+}
+#texto{
+    margin-top: 5rem;
+    font-size: 2rem;
+    color: rgb(165, 163, 163);
+}
+#des{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tab{
+    margin-top: 7rem;
+}
+#Inv{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: rgb(165, 163, 163);
+}
+.subtitulo{
+    margin-top: 3rem;
+    font-family: fantasy;
+    font-size: 2rem;
+    color: rgb(165, 163, 163)
+}
+#INV3{
+    margin-top: 18rem;
+}
+#img0{
+    margin-top: 4rem;
+    margin-right: 8rem;
+}
+#img01{
+    margin-top: 3.2rem;
+    margin-left: 0.3rem;
+}
+#Boton{
+    margin-top: 2rem;
+    font-size: 1.8rem;
+    color: rgb(165, 163, 163)
+}
