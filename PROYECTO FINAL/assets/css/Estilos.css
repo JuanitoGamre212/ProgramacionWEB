@@ -1,0 +1,182 @@
+/*
+    --PALETAS DE COLORES--
+    #191C22 Eerie black
+    #282C34 Gunmetal
+    #16697A Caribbean Current
+    #61DAFB Sky Blue
+    #ECECEC Anti-flash white
+    #FFFFFF white
+*/
+
+/* GLOBALES */
+img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+.logo{
+    width: 100px;
+}
+.titulo{
+    margin-top: 3rem;
+    font-family: fantasy;
+    font-size: 6rem;
+    color: #16697A;
+}
+.seccion{
+    padding: 2rem 0;
+}
+.tituloDos{
+    margin-top: 3rem;
+    font-family: fantasy;
+    font-size: 6rem;
+    color: #ECECEC;
+}
+.bg-oscuro{
+    background-color: #16697A;
+    color: #ECECEC;
+}
+.subtitulo{
+    margin-top: 3rem;
+    font-family: fantasy;
+    font-size: 2rem;
+    color: rgb(165, 163, 163)
+}
+
+/* NAVEGACION */
+button.navbar-toggler.collapsed span.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(97, 218, 251, 1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+button.navbar-toggler span.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(97, 218, 251, 1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+#seleccionado{
+    color: #61DAFB;
+}
+.navbar{
+    background-color: #282C34;
+}
+.nav-link{
+    font-size: 1.5rem;
+    color: #ECECEC;
+}
+.nav-link:hover{
+    color: #fff;
+}
+/*---------------------Principal------------------------*/
+
+/* CARRUSEL */
+#carrusel{
+    text-align: center;
+}
+
+/* CARDS */
+#texto{
+    margin-top: 5rem;
+    font-size: 2rem;
+    color: #282C34;
+}
+.card {
+    width: 18rem;
+    transition: background-color .2s linear;
+    background-color: #fff;
+    overflow: hidden;
+
+}
+.card img {
+    transition: transform .2s linear;
+}
+.card:hover img {
+    transform: scale(1.1);
+    transition: transform .2s linear;
+}
+
+#Card{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.card .btn-primary{
+    background-color: #61DAFB;
+    border: none;
+}
+.card .btn-primary:hover{
+    background-color: #16697A;
+    border: none;
+}
+
+/*-------------------------HISTORIA---------------------------------*/
+#Inv{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+#Boton{
+    margin-top: 2rem;
+    font-size: 1.8rem;
+    color: #61DAFB;
+}
+
+
+
+
+
+.nombre{
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+#p1{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+#p2{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+#tiktok{
+    font-size: 3rem;
+}
+
+#con{
+    font-size: 3rem;
+}
+#opinion{
+    resize: none;
+}
+#botones{
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+#R{
+    margin-top: 4rem;
+    width: 9rem;
+    height: auto;
+    margin-left: 14rem;
+}
+#E{
+    font-size: 1.5rem;
+}
+#J{
+    font-size: 2.5rem;
+}
+
+
+
+#des{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tab{
+    margin-top: 7rem;
+}
+
+
+#INV3{
+    margin-top: 18rem;
+}
+#img0{
+    margin-top: 4rem;
+    margin-right: 8rem;
+}
+#img01{
+    margin-top: 3.2rem;
+    margin-left: 0.3rem;
+}
